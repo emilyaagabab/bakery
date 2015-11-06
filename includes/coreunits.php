@@ -1,0 +1,32 @@
+<?php
+$coreunitslist = array(
+    array('unitchar' => 'EA', 'name' => 'Each', 'factor' => '', 'coreunit' => ''),
+    array('unitchar' => 'DZ', 'name' => 'Dozen', 'factor' => 12, 'coreunit' => 'Each'),
+    array('unitchar' => 'LB', 'name' => 'Pound', 'factor' => 16.000, 'coreunit' => 'Ounces'),
+    array('unitchar' => 'OZ', 'name' => 'Ounce', 'factor' => 28.350, 'coreunit' => 'Grams'),
+    array('unitchar' => 'FOZ', 'name' => 'Fluid Ounce', 'factor' => 29.573, 'coreunit' => 'Milliliters'),
+    array('unitchar' => 'HR', 'name' => 'Hour', 'factor' => 60, 'coreunit' => 'Minutes'),
+    array('unitchar' => 'MIN', 'name' => 'Minute', 'factor' => 60, 'coreunit' => 'Seconds'),
+    array('unitchar' => 'SEC', 'name' => 'Second', 'factor' => 0, 'coreunit' => ''),
+    array('unitchar' => 'KG', 'name' => 'Kilogram', 'factor' => 1000.000, 'coreunit' => 'Grams'),
+    array('unitchar' => 'G', 'name' => 'Gram', 'factor' => 0.001, 'coreunit' => 'Kilogram'),
+    array('unitchar' => 'MG', 'name' => 'Milligram', 'factor' => 0.001, 'coreunit' => 'Gram'),
+    array('unitchar' => 'DG', 'name' => 'Decigram', 'factor' => 0.100, 'coreunit' => 'Gram'),
+    array('unitchar' => 'CG', 'name' => 'Centigram', 'factor' => 0.010, 'coreunit' => 'Gram'),
+    array('unitchar' => 'PT', 'name' => 'Pint', 'factor' => 16.000, 'coreunit' => 'Fluid Ounces'),
+    array('unitchar' => 'QT', 'name' => 'Quart', 'factor' => 2.000, 'coreunit' => 'Pints'),
+    array('unitchar' => 'GAL', 'name' => 'Gallon', 'factor' => 4.000, 'coreunit' => 'Quarts'),
+    array('unitchar' => 'TSP', 'name' => 'Teaspoon', 'factor' => 0.167, 'coreunit' => 'Fluid Ounces'),
+    array('unitchar' => 'TBLSP', 'name' => 'Tablespoon', 'factor' => 3.000, 'coreunit' => 'Teaspoons'),
+    array('unitchar' => 'CUP', 'name' => 'Cup', 'factor' => 16.000, 'coreunit' => 'Tablespoons'),
+    array('unitchar' => 'TNS', 'name' => 'Ton (Short)', 'factor' => 2000.000, 'coreunit' => 'Pounds'),
+    array('unitchar' => 'TNL', 'name' => 'Ton (Long)', 'factor' => 1.120, 'coreunit' => 'Tons (Short)'),
+    array('unitchar' => 'L', 'name' => 'Liter', 'factor' => 1.057, 'coreunit' => 'Quarts'),
+    array('unitchar' => 'KL', 'name' => 'Kiloliter', 'factor' => 1000.000, 'coreunit' => 'Liters'),
+    array('unitchar' => 'DL', 'name' => 'Deciliter', 'factor' => 0.100, 'coreunit' => 'Liter'),
+    array('unitchar' => 'CL', 'name' => 'Centiliter', 'factor' => 0.010, 'coreunit' => 'Liter'),
+    array('unitchar' => 'ML', 'name' => 'Milliliter', 'factor' => 0.001, 'coreunit' => 'Liter'),
+    array('unitchar' => 'YRD', 'name' => 'Yard', 'factor' => 3.000, 'coreunit' => 'Feet'),
+    array('unitchar' => 'FT', 'name' => 'Feet', 'factor' => '', 'coreunit' => '')
+);
+
