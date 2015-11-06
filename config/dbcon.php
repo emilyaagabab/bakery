@@ -7,10 +7,10 @@ class dbcon extends \PDO
     private static $instance;
 	
     private $DB_HOST = "localhost";
-    private $DB_NAME = "redux";
-    private $DB_USER = "twinwqpl_georgek";
-    private $DB_PASSWORD = "SS3Tz=HCTwTa";
-    private $PARENT_ID = 2843;
+    private $DB_NAME = "mob";
+    private $DB_USER = "root";
+    private $DB_PASSWORD = "";
+    private $PARENT_ID = 517;
 
     public function __construct()
     {
