@@ -1,7 +1,6 @@
 <?php
 namespace controllers;
 use config\dbcon;
-
 session_start();
 
 require_once('config/dbcon.php');

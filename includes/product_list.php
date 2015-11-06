@@ -2,7 +2,7 @@
     <div class="box" id="welcbox">
         Currently logged in as from Test Company
         <ul>
-            <li><a href="#">Contact MyOnlineBakery</a></li>
+            <li><a href="#">Contact Us</a></li>
             <li><a href="#">Logout</a></li>
         </ul>
     </div>
